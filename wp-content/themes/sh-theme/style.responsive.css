@@ -1,0 +1,68 @@
+@media (max-width: 768px) {
+    .navbar {
+        box-shadow: 0px 0px 6px -3px;
+    }
+
+    .logo-phone {
+        width: 75px;
+    }
+
+    .slide-widget {
+        max-width: 87%;
+        margin-top: 150px;
+    }
+
+    .slide-title {
+        font-size: 21px;
+        padding: 5px 0px;
+    }
+
+    .slide-subtitle {
+        font-size: 15px;
+    }
+
+    .square-iconize .row {
+        margin-top: -75px;
+    }
+
+    .square-content {
+        font-size: 15px;
+    }
+
+    .latest-post {
+        margin-bottom: 27px;
+    }
+
+    .lp-category {
+        font-size: 29px;
+    }
+
+    .pen-slogan-value {
+        font-size: 21px;
+    }
+
+    .pencil {
+        display: none;
+    }
+
+    #home-videos .hv-title {
+        font-size: 17px;
+    }
+
+    .grid-layout .post-thumbnail img {
+        height: 195px;
+    }
+
+    .grid-layout .post .post-title a {
+        font-size: 21px;
+    }
+
+    .post-layout {
+        margin-bottom: 21px;
+    }
+
+    .post-layout .post-title {
+        font-size: 25px;
+    }
+
+}
